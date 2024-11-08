@@ -55,7 +55,7 @@ public class IT24100809Lab3Q3
           System.out.println("num2 :"+num2);
           System.out.println("num1 :"+num1);
 
-          scanner.close();
+     
    }
 
 }
