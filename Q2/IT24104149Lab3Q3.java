@@ -9,7 +9,7 @@ public class IT24100809Lab3Q3
 
           System.out.println("enter the amount :");
           amount=input.nextInt();
-          System.out.println("amount is :"amount);
+          System.out.println("amount is :"+amount);
           remainingAmount=amount;
           num5000=remainingAmount/5000;
           remainingAmount=remainingAmount%5000;
